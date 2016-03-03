@@ -1,0 +1,10 @@
+{
+    "name": "ComeJ11",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "ComeJ11.xml",
+    "author": "SpaceAceMAO9",
+    "minimum_firmware_version": 42
+}
